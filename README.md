@@ -6,7 +6,11 @@ Issues might arise with hardware, this project doesn't fully address them as it 
 
 This also should work on the latest version of Micropython which can be found here[https://micropython.org/download/]
 
+Of course this project can work with a variety of hardware and configurations but might be harder to debug. Of course customisation is heavily endorced with projects like this.
+
 # Set Up
+## Fan set up:
+The 5v fan is recommended to be conected on
 
 # Code
 
