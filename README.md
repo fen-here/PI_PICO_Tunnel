@@ -8,6 +8,11 @@ This also should work on the latest version of Micropython which can be found he
 
 Of course this project can work with a variety of hardware and configurations but might be harder to debug. Of course customisation is heavily endorced with projects like this.
 
+# Creating the box:
+I originally wanted to 3D Print the case but then it came to my awarness that lazer cutting the box would be a better course of action only because of its ease of use and quick production time.
+
+I used a website called box.py to make the original files and then added more using Affinity [https://boxes.hackerspace-bamberg.de/?language=en]
+
 # Set Up
 ## Fan set up:
 The 5v fan is recommended to be conected on
