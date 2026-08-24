@@ -13,6 +13,8 @@ I originally wanted to 3D Print the case but then it came to my awarness that la
 
 I used a website called box.py to make the original files and then added more using Affinity [https://boxes.hackerspace-bamberg.de/?language=en]
 
+The 3D print files will still be available but can't confirm if they will work or be the best.
+
 # Set Up
 ## Fan set up:
 The 5v fan is recommended to be conected on
