@@ -1,4 +1,4 @@
-# PI_PICO_Tunnel
+# MicroController Server
 This is a project to use micro controllers such as th ESP32 and Raspberry PI PICO W as web servers or devices for other tasks using micropython as well as the files for lazer cut or 3D printed cases.
 The project recommends a 30mm 5v fan and a 128x64 OLED display.
 
